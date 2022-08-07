@@ -27,9 +27,18 @@ entrega-padroesdeprojeto/src/main/java/subsistema2/cep
 entrega-padroesdeprojeto/src/main/java/br/com/raphaelpaulino/gof/Application.java
 ```
 
+
 <br>
 
-Contato principal:  [Raphael Paulino - Gmail](mailto:raphael.paulino.web@gmail.com) <br>
+# Agradecimentos
+
+<br>
+
+Deixo aqui meus agradecimentos ao [Santander Bolsas](https://www.becas-santander.com/pt_br/index.html) e a [DIO](https://www.dio.me/) pelo privilégio de ser aceito e poder participar desse programa de estudos que me acrescentou muito conhecimento e que com certeza vou aplicá-los em minha carreira profissional! 
+
+<br>
+
+# Contatos
+Meu contato principal:  [Raphael Paulino - Gmail](mailto:raphael.paulino.web@gmail.com) <br>
 Faça Parte da Minha Rede: [Meu LinkedIn](https://www.linkedin.com/in/raphaelalvespaulino/) <br>
 Meu Portfólio: [raphaelpaulino.com.br](https://www.raphaelpaulino.com.br/) <br>
-
