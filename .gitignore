@@ -1,3 +1,8 @@
+entrega-padroesdeprojeto/target/
+!entrega-padroesdeprojeto/.mvn/wrapper/maven-wrapper.jar
+!entrega-padroesdeprojeto/**/src/main/**/target/
+!entrega-padroesdeprojeto/**/src/test/**/target/
+
 # Compiled class file
 *.class
 
